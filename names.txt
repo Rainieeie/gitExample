@@ -1,3 +1,3 @@
-rmao28, Mao, Ruirui
 boss, NetID, LastName, FirstName
+boss,rmao28, Mao, Ruirui
 employee,jxiang34,Xiang,Junyuan
