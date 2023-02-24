@@ -1,2 +1,3 @@
 boss, NetID, LastName, FirstName
 boss,rmao28, Mao, Ruirui
+employee,sli826,Shangchen,Li
